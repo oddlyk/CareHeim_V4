@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Care-Heim</string>
+    <string name="button">Button</string>
+    <string name="text_care">Care-</string>
+    <string name="text_heim">Heim</string>
+    <string name="text_service">의류케어서비스</string>
+
+    <!--
+    <string name="main2_button1">세탁 정보 등록</string>
+    <string name="main2_button2">어플 종료</string>
+    -->
+    <string name="main2_button1">O</string>
+    <string name="main2_button2">X</string>
+
+    <string name="main3_button1">방금 기기에서\n등록된 의류에\n세탁정보 추가</string>
+    <string name="main3_button2">의류를\n검색하여 추가</string>
+
+    <string name="main4_button1">세탁정보를\n등록하려는\n의류가 맞다</string>
+    <string name="main4_button2">의류 검색 화면으로</string>
+
+    <string name="main41_button1">다음 단계로\n넘어가기</string>
+    <string name="main41_button2">말하기</string>
+
+    <string name="main43_button1">다시 검색 하기</string>
+    <string name="main43_button2">말하기</string> <!--main41_button1과 같이 쓸지 생각해보기-->
+
+    <string name="main42_button1">세탁정보를\n등록하려는\n의류가 맞다</string>  <!--main4_button1과 같이 쓸지 생각해보기-->
+    <string name="main42_button2">의류를 다시\n검색한다</string>
+
+    <string name="main5_button1">촬영 하러 가기</string>
+
+    <string name="main51_button1">촬영 다시 하기</string>
+    <string name="main51_button2">세탁 정보 등록\n그만하기</string>
+
+    <string name="main6_text">세탁 정보 분석 중</string>
+
+    <string name="main72_button1">재 전송</string>
+
+    <string name="main7_button1">세탁 정보 듣기</string>
+    <string name="main7_button2">다음으로\n넘어가기</string>
+
+    <string name="main8_button1">의류 선택으로\n돌아가기</string>
+    <string name="main8_button2">첫 화면으로\n돌아가기</string>
+
+    <string name="network_cheak">네트워크 연결 확인</string>
+
+
+</resources>
